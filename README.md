@@ -36,7 +36,7 @@ It took me some time to discover the extent of damage being caused by the 0.01% 
 OUTPUT
 RandomForestClassifier, Support Vector Machine, GradientBoostingClassifier, and NaiveBayes were modelled in search for the fraudulent transactions.
 
-	Random Forest Classifier	Support Vector Machine	Gradient Boosting Classifier	Naïve Bayes
+	
 RECALL	9%	0	9%	0%
 PRECISION	100%   	0	100%	33.3%
 F1 SCORE	17%	0	17%	1%
